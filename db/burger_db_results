@@ -1,0 +1,13 @@
+/*
+-- Query: SELECT * FROM burgers_db.burgers
+LIMIT 0, 1000
+
+-- Date: 2020-05-31 21:36
+*/
+INSERT INTO `` (`id`,`burger_name`,`devoured`) VALUES (1,'Cheese Burger',0);
+INSERT INTO `` (`id`,`burger_name`,`devoured`) VALUES (2,'Hamburger',0);
+INSERT INTO `` (`id`,`burger_name`,`devoured`) VALUES (3,'Pizza Burger',0);
+INSERT INTO `` (`id`,`burger_name`,`devoured`) VALUES (4,'BLT Burger',0);
+INSERT INTO `` (`id`,`burger_name`,`devoured`) VALUES (5,'Ham and Egg Burger',0);
+INSERT INTO `` (`id`,`burger_name`,`devoured`) VALUES (6,'Veggie Burger',0);
+INSERT INTO `` (`id`,`burger_name`,`devoured`) VALUES (7,'Chicken Burger',0);
